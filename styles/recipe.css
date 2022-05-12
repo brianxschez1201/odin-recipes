@@ -1,0 +1,41 @@
+#recipe-header {
+    background-color: rgb(60,113, 73);
+    color: rgb(255,139,73);
+    font-family: "Brush Script MT", cursive;
+    font-size: 32px;
+    font-weight: 100;
+}
+
+#recipe-image {
+    width: 250px;
+    height: auto;
+}
+
+.subheader {
+    color: rgb(60,113, 73);
+    font-family: Garamond, serif;
+    font-weight: 500;
+}
+
+.info {
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+}
+
+.info#description {
+    font-style: italic;
+}
+
+.info#ingredients {
+    font-weight: 550;
+}
+
+.info#steps {
+    text-align: center;
+}
+
+#recipe-header,
+.subheader,
+.info {
+    text-align: left;
+}
