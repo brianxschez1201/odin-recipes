@@ -1,0 +1,13 @@
+#home-header {
+    background-color: rgb(60,113, 73);
+    color: rgb(255,139,73);
+    font-family: "Brush Script MT", cursive;
+    font-size: 64px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.recipe {
+    font-family: Garamond, serif;
+    font-size: 24px;
+}
